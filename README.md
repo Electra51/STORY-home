@@ -1,4 +1,4 @@
-# StoryHome - Online Home Interior Design Website
+# STORY-home - Online Home Interior Design Website
 
 Welcome to StoryHome, your go-to destination for online home interior design inspiration. This project, built with React.js and Tailwind CSS, showcases a clean and clear frontend code, making it easy to explore various services, projects, and blog content related to interior design.
 
